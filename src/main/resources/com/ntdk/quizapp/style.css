@@ -8,5 +8,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
 */
 .Main{
     -fx-background-color: lightblue;
+    -fx-padding: 10;
+    -fx-font-size :10;
 }
 
