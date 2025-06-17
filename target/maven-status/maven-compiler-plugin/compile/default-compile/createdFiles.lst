@@ -2,3 +2,4 @@ com\ntdk\quizapp\App.class
 com\ntdk\quizapp\PrimaryController.class
 com\ntdk\quizapp\SecondaryController.class
 module-info.class
+com\ntdk\utils\MyAlert.class
